@@ -54,7 +54,3 @@ This README contains only information present in the project files (package.json
   - { id: 2, username: "student", password: bcrypt.hashSync("student123", 10), role: "student" }
 
 (Passwords shown in the source are hashed using `bcrypt.hashSync` with the plaintext values "admin123" and "student123" passed into `hashSync`.)
-
-## Notes
-- The README contains only information directly present in the repository files and does not add anything beyond those files.
-
