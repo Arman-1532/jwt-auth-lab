@@ -1,5 +1,31 @@
 # jwt-auth-lab
 
+## Screenshots
+
+Admin login with username and password:
+![Admin Login](images_for_readme/admin_login.png)
+
+Admin profile response:
+![Admin Profile](images_for_readme/admin_profile.png)
+
+Admin access successful:
+![Admin Access Successful](images_for_readme/admin_access_successful.png)
+
+Student login with username and password:
+![Student Login](images_for_readme/student_login.png)
+
+Student profile response:
+![Student Profile](images_for_readme/student_profile.png)
+
+Student access denied to admin route:
+![Student Access Denied](images_for_readme/student_access_denied.png)
+
+Invalid token error:
+![Invalid Token](images_for_readme/invalid_token.png)
+
+Invalid token format error:
+![Invalid Token Format](images_for_readme/invalid_token_format.png)
+
 This README contains only information present in the project files (package.json, server.js, authMiddleware.js, users.js).
 
 ## package.json
